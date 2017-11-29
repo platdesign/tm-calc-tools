@@ -1,11 +1,11 @@
-# camp-calculator
+# tm-calc-tools
 
 A project by platdesign.de
 
 
 # Install
 
-`npm install --save camp-calculator`
+`npm install --save @platdesign/tm-calc-tools`
 
 # Usage
 
